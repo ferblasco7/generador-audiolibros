@@ -1,0 +1,11 @@
+.trabajo/
+__pycache__/
+entrada/
+salida/
+books/
+cache_capitulos/
+logs/
+piper/
+*.mp3
+*.epub
+epub_to_audiobook/
